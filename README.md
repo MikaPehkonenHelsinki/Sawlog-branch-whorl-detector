@@ -1,4 +1,4 @@
-#Sawlog branch whorl detector for terrestrial laser scanning point clouds
+# Sawlog branch whorl detector for terrestrial laser scanning point clouds
 
 **1.** Renders images of sawlog partitions from point clouds in four directions.
 
